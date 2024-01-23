@@ -2,6 +2,7 @@
 Real time visibility progress tracking report for PQPLUS for November 2023
 
 Real Time Visibility (RTV) Report by Okuta Dickson (Nov. 2023)
+
 The respective graphs contained in the RTV sections depicts the Real time Visibility of PQPlus Global operation. The data highlights such key performance indexes as; Total Registration, Total Revenue, Activation Average Value Order and Conversion ratio.
 Overall, taking account the years 2021 through 2024, PQPlus has recorded a consistently progressive increment in the revenue she makes, which is further corroborated by an increase in the number of students trained in the respective years of operation. In addition, PQplus has recorded a growing coverage as she expands her reach across different local governments precisely in Lagos state and also enlarging participation in the city of Abuja. Lastly the remarkable efforts of the Managers at PQplus does play a major role in impacting the successes recorded in the last few years.
 Item 1: Registration, Revenue and Activation
@@ -18,6 +19,7 @@ Key words:
 
 
 BEBI Report by Okuta Dickson (Nov. 2023)
+
 The graphs which spread across the Business Expansion Business Intelligence (BEBI) dashboard monitors the progress of collected data that is relevant to the Lagos terrain and it seeks to assess the feasibility of opening a new operating hub in the island area of Lagos, Nigeria. The data on the dashboard highlights such key performance indexes as; Total Registration, Total Revenue, Activation, Average Value Order and Conversion ratio.
 Reviewing the years 2021 through 2024, PQPlus-Lagos has recorded a consistently progressive increment in the revenue she makes, which is further corroborated by an increase in the number of students trained in the respective years of operation. In addition, PQplus-Lagos has recorded a growing coverage as she expands her reach across different local governments in Lagos state. In addition, the remarkable efforts of Managers at the Lagos hub does play a major role in impacting the successes recorded in the last few years.
 Item 1: Registration, Revenue and Activation
@@ -26,6 +28,8 @@ Similarly the highest revenue was recorded in year 2023 with over NGN9M (average
 Item 2: Conversion Ratio, Average Value Order, and Managers
 Although there was an uneven but continual decline in the conversion ratio of successive months from January through December, but at the same time, the conversion ratio of Lagos hub significantly accounted for growth between the years of 2021 to 2022 bearing a value of 24% and 56% respectively. However, there was a decline in year 2023, as the value steeped downwards to 44%. In terms of the class type that had the most subscription, Lagos weekend recorded 123 activations over Lagos midweek (81) and had a respective counts of 88 and 35 activations across the physical and virtual training types.
 Furthermore, the records show that the manager with the most contribution to the operation at PQPlus-Lagos for the period under review was Kezi clinching a 62 counts activation and churning in over 4.2M in revenue. With a conversion rate of 69.66%, reflected on the 89 leads generated which led to a whooping 62 count in activation of the 204 activations. His efforts did cut across the varied class types (Lagos - midweek and weekend) at the Lagos hub and with an average of 74% in both training types (Physical and virtual).
+
+
 Lastly, considering the Island area of Lagos as case in point, which is comprised of Lagos island and extending to Ibeju Lekki. It can be inferred from the data that 2 activations occurred at Lagos Island with a conv ratio of 28.57% and contributing NGN600,000 in revenue. On the other hand Ibeju Lekki activated 6 candidates with a conversion ratio of 42.86% and accrued a revenue of NGN540,000. Surprisingly, Ibeju Lekki attained half of their entire achievement within the entire period just in the year 2023 while Lagos Island seem not to have recorded any sales in 2023.
 Key words:
     • BEBI - Business Expansion Business Intelligence
